@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/AVS1508">
+<a href="https://www.linkedin.com/in/patnadolny/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pnadolny13&theme=dark&show_icons=true" />
 </a>
